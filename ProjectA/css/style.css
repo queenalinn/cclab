@@ -1,16 +1,16 @@
 body{
-    background-color: black;
-    color: aliceblue;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
+    background-color: rgb(158, 221, 240);
+    color: rgb(0, 0, 0);
+    font-family:fantasy;
+    font-size: large;
 }
 #title-wrapper{
     text-align: center;
 }
 .headline{
-    font-size: 4em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: 600;
+    font-size: 5em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
 }
 #main-wrapper{
     width: 800px;
@@ -30,7 +30,7 @@ body{
 }
 #footer{
     text-align: center;
-    font-size: 0.7em;
+    font-size: med;
     margin-top: 50px;
     padding-bottom: 40px;
 }
@@ -39,13 +39,13 @@ body{
     width: 800px;
 }
 .red {
-    color: pink;
+    color: rgb(236, 95, 208);
 }
 .yellow {
-    color: gold;
+    color: rgb(227, 58, 224);
 }
 .green {
-    color: aqua;
+    color: rgb(232, 137, 204);
 }
 #home a{
     color: aliceblue;
@@ -55,7 +55,7 @@ body{
     top: 10px;
     text-decoration: none;
     padding: 10;
-    font-size: 0.7;
+    font-size:medium;
 }
 #home a:hover{
     background-color: beige;
