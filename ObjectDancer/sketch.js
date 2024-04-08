@@ -50,7 +50,7 @@ class CupcakeMania  {
     this.y_wrapper  = height/2+sin(frameCount*0.1)*50;
     this.y_frosting = height/2-20+sin(frameCount*0.1)*70;
     this.y_cherry = height/2-50+sin(frameCount*0.1)*100;
-    console.log(height/2-20+sin(frameCount*0.1)*70);
+
     // update properties here to achieve
     // your dancer's desired moves and behaviour
   }
